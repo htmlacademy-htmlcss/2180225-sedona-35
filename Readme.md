@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Марина Тюгай](https://up.htmlacademy.ru/htmlcss/35/user/2180225).
-* Наставник: `Максим`.
+* Наставник: `Максим Боровик https://htmlacademy.ru/profile/mouxez `.
 
 ---
 
